@@ -1,0 +1,14 @@
+*.DS_Store
+
+.vs/
+.idea/
+*.user
+*.suo
+**/node_modules
+*.litedb
+agent*.zip
+net*.zip
+
+
+[Oo]bj/
+[Bb]in/
